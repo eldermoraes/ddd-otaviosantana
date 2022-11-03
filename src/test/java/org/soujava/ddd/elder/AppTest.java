@@ -1,4 +1,4 @@
-package org.example;
+package org.soujava.ddd.elder;
 
 
 import org.junit.jupiter.api.Test;

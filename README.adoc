@@ -13,13 +13,13 @@ Material utilizado para DDD para o Elder em 2022
 
 == Conceitos
 
-* Tático:
-* Estratégico:
+* Estratégico: é um fica a linguagem do negócio: Bounded Context, linguagem ubiquitous, context Maps.
+* Tático: implementação, classes e módulos.
 
 == Patterns
 
-* Entidades
-* Services
-* Repository
-* Agregator
-* Root
+* Entidades: Uma entidade é um objeto único e core do negócio, geralmente, possui um identificador único.
+* Value objects: É um objeto sem identidade, que geralmente são imutáveis (record?).
+* Services: o objeto que executa ou implementa uma lógica de negócio e que não possui um estado.
+* Repository: É uma abstração que afasta o cliente do armazenamento do dados.
+* Agregator: Um cluster de objetos. Algumas vezes confundidos com uma simples coleção.

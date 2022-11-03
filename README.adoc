@@ -8,4 +8,10 @@ Material utilizado para DDD para Elder em 2022
 
 == Frameworks
 
-== Entidades
+== Patterns
+
+* Entidades
+* Services
+* Repository
+* Agregator
+* Root

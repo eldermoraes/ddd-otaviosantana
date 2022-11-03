@@ -1,10 +1,13 @@
 # ddd-elder-2022
 :toc: auto
 
-Material utilizado para DDD para Elder em 2022
-
+Material utilizado para DDD para o Elder em 2022
 
 == Referências
+
+* https://www.amazon.com.br/dp/1098100131[Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy]
+* https://www.infoq.com/minibooks/domain-driven-design-quickly/[Domain Driven Design Quickly]
+* https://www.amazon.com.br/dp/0137458916[Domain Storytelling: A Collaborative, Visual, and Agile Way to Build Domain-Driven Software]
 
 == Frameworks
 

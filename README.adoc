@@ -11,6 +11,11 @@ Material utilizado para DDD para o Elder em 2022
 
 == Frameworks
 
+== Conceitos
+
+* Tático:
+* Estratégico:
+
 == Patterns
 
 * Entidades

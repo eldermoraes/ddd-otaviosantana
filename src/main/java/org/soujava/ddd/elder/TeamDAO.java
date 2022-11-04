@@ -1,11 +1,9 @@
 package org.soujava.ddd.elder;
 
-public class TeamDAO implements ChampionLeague {
+public class TeamDAO {
 
-    @Override
-    public Team subscribe(Team team) {
+    public Team insert(Team team) {
         TeamRelational relational = TeamRelational.of(team);
-        //id? update: delete
         return relational.toTeam();
     }
 

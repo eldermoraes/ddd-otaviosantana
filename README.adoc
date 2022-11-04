@@ -11,6 +11,8 @@ Material utilizado para DDD para o Elder em 2022
 
 == Frameworks
 
+* https://github.com/xmolecules/jmolecules
+
 == Conceitos
 
 * Estratégico: é um fica a linguagem do negócio: Bounded Context, linguagem ubiquitous, context Maps.

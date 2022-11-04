@@ -2,5 +2,7 @@ package org.soujava.ddd.elder;
 
 
 //repository
-public interface ChampionLegue {
+public interface ChampionLeague {
+
+    Team subscribe(Team team);
 }

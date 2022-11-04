@@ -28,7 +28,8 @@ public class PlayerBuilder {
         return this;
     }
 
-    public Player createPlayer() {
+    public Player build() {
+        //validar
         return new Player(name, city, email, salary);
     }
 }

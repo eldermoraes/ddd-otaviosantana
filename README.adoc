@@ -1,7 +1,5 @@
-# ddd-elder-2022
+# Aula de Domain Drive Design - Otávio Santana
 :toc: auto
-
-Material utilizado para DDD para o Elder em 2022
 
 == Referências
 
